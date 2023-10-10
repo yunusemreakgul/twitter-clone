@@ -1,8 +1,8 @@
-import Button from "../../../../components/button";
+import Button from "../../../../../components/button";
 
 export default function New() {
     return(
-        <div>
+        <div className="py-4 w-[90%]">
             <Button>Gönder</Button>
          </div>
     )
